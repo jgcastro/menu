@@ -1,0 +1,27 @@
+const restaurantes = [
+    {
+     id: 1,
+     name: "Liver Poll Bar & Grill",
+     place: "Palmares",
+    },
+    {
+        id: 1,
+     name: "La Pataqueña",
+     place: "Palmares",
+    },
+    {
+        id: 1,
+     name: "Taquería Juan",
+     place: "Palmares",
+    },
+    {
+        id: 1,
+     name: "Taquiche",
+     place: "Palmares",
+    },
+    {
+        id: 1,
+     name: "Soda Olga",
+     place: "Palmares",
+    },  
+];
